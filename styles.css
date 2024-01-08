@@ -97,7 +97,7 @@ a {
   max-width: max;
 }
 .hero-container {
-  background-image: url("/images/chocolate-covered-cocoa-powder\ 1.png");
+  background-image: url("./images/chocolate-covered-cocoa-powder\ 1.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #fd9222;
